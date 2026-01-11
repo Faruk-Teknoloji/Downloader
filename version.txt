@@ -1,2 +1,1 @@
-1.1 Sürümü Mevcut 
-"Yeni sürüm indiğinde, eski dosyayı silip yeni sürümü kullanmaya devam edebilirsiniz. Ayarlarınız ve geçmişiniz (Belgelerim klasöründe olduğu için) silinmeyecektir!"
+1.1
